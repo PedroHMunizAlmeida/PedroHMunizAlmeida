@@ -1,6 +1,6 @@
-Hey There 👋
+<h1>Hey There👋</h1> 
 
-- 📖 Learning **FrontEnd Development**
+<h2>• 📖 Learning **FrontEnd Development**</h2>
 
 ---
 <a href="https://github.com/PedroHMunizAlmeida">
