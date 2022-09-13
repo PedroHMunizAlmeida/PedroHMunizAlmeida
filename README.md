@@ -5,7 +5,10 @@ Hey There 👋
 ---
 <a href="https://github.com/PedroHMunizAlmeida">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMunizAlmeida&theme=radical&layout=compact&langs_count=8" />
+
 ---
+  
+  
 <img style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <!--
 **PedroHMunizAlmeida/PedroHMunizAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
