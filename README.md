@@ -1,4 +1,8 @@
-### Hi there 👋
+Hey There 👋
+
+- 📖 Learning **FrontEnd Development**
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMunizAlmeida&theme=radical&layout=compact&langs_count=8" />
 
 <!--
 **PedroHMunizAlmeida/PedroHMunizAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
